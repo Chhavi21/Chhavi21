@@ -61,11 +61,11 @@
 
 ### JAM Mathematical Statistics
 
-🏅 **All India Rank 122** -->
+🏅 **All India Rank 122** 
 
 ---
 
-<!-- # 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <div align="center">
 

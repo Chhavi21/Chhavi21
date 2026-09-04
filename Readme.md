@@ -85,7 +85,7 @@
 ---
 # 📫 Connect With Me
 
-- 🌐 GitHub: **https://github.com/Chhavi21**
+- 🌐 Email: **chhavi.july21@gmail.com**
 - 💼 LinkedIn: *https://www.linkedin.com/in/chhavi-vishwakarma-456853154/*
 
 <!-- # 📫 Connect With Me

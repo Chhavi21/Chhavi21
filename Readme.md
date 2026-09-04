@@ -1,19 +1,21 @@
 <h1 align="center">Hi 👋, I'm Chhavi Vishwakarma</h1>
 
-<h3 align="center">Data Scientist | Statistical ML | Data Analytics | IIT Kanpur</h3>
+<!-- <h3 align="center">Data Analytics | Data Scientist | Statistical ML | IIT Kanpur</h3> -->
 
 ---
 
 ## 🚀 About Me
 
 * 🎓 **M.Sc. in Statistics, IIT Kanpur**
-* 📊 Passionate about **Data Science, Machine Learning, Statistical Modeling & Analytics**
-* 💼 Experience as an **Associate Data Scientist Intern**, working on real-world data pipelines, dashboards, and optimization problems.
-* 🧠 Strong foundation in **Statistical Machine Learning, Statistical Inference, Time Series, Data Mining & Optimization**
-* 📈 Experienced in analyzing datasets with **200,000+ records** and extracting actionable insights using statistical and machine learning techniques.
 * 🏆 **All India Rank 122 – JAM Mathematical Statistics**
-* 🔍 Interested in solving real-world problems by combining **Statistics + Machine Learning + Business Intelligence**
-* 🌱 Currently exploring **AI, LLMs, Predictive Modeling & Decision Intelligence**
+
+
+<!-- 📊 Passionate about **Data Science, Machine Learning, Statistical Modeling & Analytics**
+💼 Experience as an **Associate Data Scientist Intern**, working on real-world data pipelines, dashboards, and optimization problems.
+🧠 Strong foundation in **Statistical Machine Learning, Statistical Inference, Time Series, Data Mining & Optimization**
+📈 Experienced in analyzing datasets with **200,000+ records** and extracting actionable insights using statistical and machine learning techniques.
+🔍 Interested in solving real-world problems by combining **Statistics + Machine Learning + Business Intelligence**
+🌱 Currently exploring **AI, LLMs, Predictive Modeling & Decision Intelligence** -->
 
 ---
 

@@ -57,11 +57,11 @@
 
 ---
 
-# 🏆 Achievement
+<!-- # 🏆 Achievement
 
 ### JAM Mathematical Statistics
 
-🏅 **All India Rank 122**
+🏅 **All India Rank 122** -->
 
 ---
 

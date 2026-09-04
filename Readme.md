@@ -7,7 +7,7 @@
 ## 🚀 About Me
 
 * 🎓 **M.Sc. in Statistics, IIT Kanpur**
-* 🏆 **All India Rank 122 – JAM Mathematical Statistics**
+* 🏆 **All India Rank 122 – JAM Mathematical Statistics 2022**
 
 
 <!-- 📊 Passionate about **Data Science, Machine Learning, Statistical Modeling & Analytics**
@@ -43,63 +43,6 @@
 
 ---
 
-# 🔬 Featured Projects
-
-### 📊 Customer Behavior Analysis
-
-Analyzed **200,000+ customer records** to identify customer spending and income patterns.
-
-* Applied **PCA** for dimensionality reduction
-* Used **K-Means** and **Gaussian Mixture Models** for customer segmentation
-* Built and compared **LDA, QDA & Naive Bayes** classification models
-* Extracted meaningful patterns from high-dimensional customer data
-
----
-
-### 📈 Microsoft Stock Data Analysis
-
-Conducted statistical analysis on **1,500+ days of Microsoft stock data**.
-
-* Performed exploratory data analysis
-* Applied multiple **non-parametric hypothesis tests**
-* Used Run Test, Mann-Kendall, Wilcoxon Rank Sum, Ansari-Bradley and Kolmogorov-Smirnov tests
-* Investigated trends, distributions and statistical relationships in financial data
-
----
-
-### 🧮 Multicollinearity & PCA
-
-Investigated multicollinearity in a high-dimensional dataset using statistical diagnostics.
-
-* Used **Variance Inflation Factor (VIF)** and condition indices
-* Applied **Principal Component Analysis**
-* Reduced VIF from **75+ to below 4**
-* Retained approximately **92% of the dataset's variance**
-
----
-
-### 🏅 Olympics Data Analysis
-
-Analyzed **120+ years of Olympic data** containing **200,000+ athlete records**.
-
-* Scraped and cleaned large-scale historical data
-* Performed exploratory and statistical analysis
-* Applied regression techniques
-* Developed an interactive **R Shiny dashboard**
-
----
-
-### 🚢 Port Operations & Optimization
-
-Worked on data-driven solutions for port operations and scheduling.
-
-* Contributed to **data pipelines and real-time dashboards**
-* Worked on tugboat and pilot scheduling problems
-* Applied **greedy optimization algorithms**
-* Explored the use of **LLMs for operational decision-making**
-
----
-
 # 📚 Areas of Interest
 
 `Statistical Machine Learning`
@@ -122,7 +65,7 @@ Worked on data-driven solutions for port operations and scheduling.
 
 ---
 
-# 📊 GitHub Stats
+<!-- # 📊 GitHub Stats
 
 <div align="center">
 
@@ -136,7 +79,7 @@ Worked on data-driven solutions for port operations and scheduling.
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true" />
 
-</div>
+</div> -->
 
 ---
 

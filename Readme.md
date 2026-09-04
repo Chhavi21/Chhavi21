@@ -82,8 +82,12 @@
 </div> -->
 
 ---
-
 # 📫 Connect With Me
+
+- 🌐 GitHub: **https://github.com/Chhavi21**
+- 💼 LinkedIn: *https://www.linkedin.com/in/chhavi-vishwakarma-456853154/*
+
+<!-- # 📫 Connect With Me
 
 <div align="left">
 
@@ -95,14 +99,4 @@
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</div>
-
----
-
-<div align="center">
-
-### 💡 Turning Statistics into Data-Driven Decisions.
-
-⭐ Thanks for visiting my profile!
-
-</div>
+</div> -->
